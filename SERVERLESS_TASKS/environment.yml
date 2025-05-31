@@ -1,0 +1,11 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - croniter=*
+  - matplotlib=*
+  - nbformat=*
+  - pandas=*
+  - plotly=*
+  - pytz=*
+  - seaborn=*
